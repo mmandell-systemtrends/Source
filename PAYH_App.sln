@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "PAYH_App", "PAYH_App\PAYH_App.ccproj", "{FB54FC80-02EE-45B0-8846-934CEEA199C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRole1", "WebRole1\WebRole1.csproj", "{4B3ABAE1-67A1-4139-A787-8CFDDA0B44C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAYH_DLL", "PAYH_DLL\PAYH_DLL.csproj", "{24D79DFA-2110-4ADD-9DF6-6EDD416CBA8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB54FC80-02EE-45B0-8846-934CEEA199C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB54FC80-02EE-45B0-8846-934CEEA199C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB54FC80-02EE-45B0-8846-934CEEA199C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB54FC80-02EE-45B0-8846-934CEEA199C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B3ABAE1-67A1-4139-A787-8CFDDA0B44C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B3ABAE1-67A1-4139-A787-8CFDDA0B44C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B3ABAE1-67A1-4139-A787-8CFDDA0B44C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B3ABAE1-67A1-4139-A787-8CFDDA0B44C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D79DFA-2110-4ADD-9DF6-6EDD416CBA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D79DFA-2110-4ADD-9DF6-6EDD416CBA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D79DFA-2110-4ADD-9DF6-6EDD416CBA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D79DFA-2110-4ADD-9DF6-6EDD416CBA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
